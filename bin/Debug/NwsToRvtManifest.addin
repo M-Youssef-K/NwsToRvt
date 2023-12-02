@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+
+<RevitAddIns>
+
+	<AddIn Type="Application">
+
+
+		<Name>NwsToRvt</Name>
+
+		<Assembly>NwsToRvt.dll</Assembly>
+
+		<AddInId>843BD27D-A7EE-4371-BDAD-3277D44EE6BE</AddInId>
+
+		<FullClassName>NwsToRvt.Application</FullClassName>
+
+		<Text>Navisworks To Revit clash importer</Text>
+
+		<Description>imports clashes from nawisworks to Revit</Description>
+
+		<VendorId>Youssef</VendorId>
+
+		<VendorDescription>Youssef developper</VendorDescription>
+
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+
+
+	</AddIn>
+</RevitAddIns>
