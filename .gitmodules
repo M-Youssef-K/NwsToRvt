@@ -1,0 +1,3 @@
+[submodule "RevitDevelopmentToolbox"]
+	path = RevitDevelopmentToolbox
+	url = https://github.com/M-Youssef-K/RevitDevelopmentToolbox.git

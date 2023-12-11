@@ -33,19 +33,8 @@ namespace NwsToRvt.Clashes
         
             get 
             {
-                //return _name
-
-                return int.Parse (_name.Substring("Conflit".Length));
-
-
-
-                ; 
-            
-            
-            }
-        
-        
-        
+                return int.Parse (_name.Substring("Conflit".Length));      
+            }     
         }
 
 
@@ -96,10 +85,10 @@ namespace NwsToRvt.Clashes
             }       
         }
 
-        
+       
         private string _isMarked_FrenchLang;
 
-
+        
         public string IsMarked_FrenchLang 
         {
             get { return _isMarked_FrenchLang; }
